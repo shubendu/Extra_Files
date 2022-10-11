@@ -1,0 +1,8 @@
+# Creating branches
+- git branch <new branch name>
+
+#creating branch on different revision head
+- git branch <new branch name> revision head code
+
+# Switching branches
+
